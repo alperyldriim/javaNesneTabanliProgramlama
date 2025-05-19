@@ -1,4 +1,4 @@
-public class odev1 {
+public class Main {
     public static void main(String[] args) {
         String[] ogrList = {"Kadir" , "Gökhan" , "Hakan" , "Suzan", "Pınar" , "Mehmet" , "Ali" , "Emel" , "Fırat", "James", "Jale" , "Ersin" , "Deniz" , "Gözde" , "Anıl" , "Burak"} ;
 
